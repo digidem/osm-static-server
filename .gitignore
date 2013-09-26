@@ -1,0 +1,5 @@
+node_modules
+*.osm
+*.osm.bz2
+*.gz
+
